@@ -1,3 +1,14 @@
 # Chvátal's greedy heuristic for the set cover problem
 
-test
+This post is divided in three parts.
+1. Brief description of the set cover problem
+2. Applications of the set cover problem
+3. A greedy heuristic to solve the set cover problem
+
+## Brief description of the set cover problem.
+
+Consider we have a collection of points, and a collection of sets, where each set contains a subset of the collection of points. 
+Important is that a point can be in multiple of the sets.
+To illustrate, consider the figure below.
+
+[Figure of set cover problem](images/set cover problem.png)
