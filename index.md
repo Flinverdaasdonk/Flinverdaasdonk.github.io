@@ -11,8 +11,6 @@ Although centralized control of these assets would be 'more optimal', in practic
 ## Contact
 You can contact me at f.verdaasdonk@utwente.nl
 
-<img src="./images/AI_for_energy_grids_lab_logo-fc-neg.png" width="60%" >
-
-![Image of AI for Energy grids logo](images/AI_for_energy_grids_lab_logo-fc-neg.png)
-![Image of UT logo](images/UT_Logo_2400_Sta_Black_EN.png)
-![Image of Alliander logo](images/3503_1_alliander_l01_2600_rgb_fc.png)
+<img src="./images/AI_for_energy_grids_lab_logo-fc-neg.png" width="200" >
+<img src="./images/UT_Logo_2400_Sta_Black_EN.png" width="200" >
+<img src="./images/3503_1_alliander_l01_2600_rgb_fc.png" width="200" >
