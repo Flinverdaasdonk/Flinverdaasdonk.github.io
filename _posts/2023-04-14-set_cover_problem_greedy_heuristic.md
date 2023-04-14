@@ -8,7 +8,7 @@ This post is divided in the following parts:
 
 Consider we have a collection of points, and a collection of sets, where each set contains a subset of the collection of points and has an associated cost. 
 Important is that all points are contained in at least one of the sets, and a point can be in multiple sets at once.
-To illustrate, consider the figure below (source: [euroinformatica](http://www.euroinformatica.ro/documentation/programming/!!!Algorithms_CORMEN!!!/DDU0238.html).
+To illustrate, consider the figure below (source: [euroinformatica](http://www.euroinformatica.ro/documentation/programming/!!!Algorithms_CORMEN!!!/DDU0238.html)).
 
 ![Figure of set cover problem](images/set cover problem.png)
 
