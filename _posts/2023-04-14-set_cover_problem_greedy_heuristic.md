@@ -10,7 +10,7 @@ Consider we have a collection of points, and a collection of sets, where each se
 Important is that all points are contained in at least one of the sets, and a point can be in multiple sets at once.
 To illustrate, consider the figure below (source: [euroinformatica](http://www.euroinformatica.ro/documentation/programming/!!!Algorithms_CORMEN!!!/DDU0238.html).
 
-[Figure of set cover problem](images/set cover problem.png)
+![Figure of set cover problem](images/set cover problem.png)
 
 Here you have sets $S_1$ through $S_6$, and the top-left point is in $S_1$ and $S_3$ simultaneously.
 
@@ -18,7 +18,7 @@ The set cover problem is as follows: Which sets are required to cover all points
 
 For more details on the set cover problem, you can read the [wiki](https://en.wikipedia.org/wiki/Set_cover_problem)
 
-## Chvátal's Greedy Heuristic for the set cover problem
+## A greedy heuristic to solve the set cover problem
 
 Recall that the set cover problem is as follows: Which sets are required to cover all points, at a minimum cost. Chvátal proposed a classic greedy heuristic to solve the set cover problem in the paper [A Greedy Heuristic for the Set-Cover problem, 1979](https://www.jstor.org/stable/3689577)
 
