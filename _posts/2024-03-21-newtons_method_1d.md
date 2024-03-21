@@ -56,9 +56,9 @@ $$x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)} =x_n - \frac{\sin(2x^2) + 2x^2 - 2x - 1
 
 
 ## Solving the example
-Below is a piece of python code I wrote to solve the problem
+Below is a piece of python code I wrote which implements Newton's method for f(x)
 
-<pre> ```python
+<pre> ```
 # define x in the range from -2 to 2
 
 xs = np.linspace(-3, 3, 100)
@@ -90,7 +90,9 @@ for step in range(max_steps):
         break
 ``` </pre>
 
+If we run this we get the following results
 
-You can that the method very quickly finds a good root of the function.
+![Plot of results of Newton's method](/images/results_1D.png)
+
 
 In the next post I explore Newton's method in multiple dimensions
