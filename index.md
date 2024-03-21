@@ -12,9 +12,9 @@ Although centralized control of these assets would be 'more optimal', in practic
 You can contact me at f.verdaasdonk@utwente.nl
 
 <p float="left">
-<img src="./images/AI_for_energy_grids_lab_logo-fc-neg.png" width="200" >
-<img src="./images/UT_Logo_2400_Sta_Black_EN.png" width="200" >
-<img src="./images/3503_1_alliander_l01_2600_rgb_fc.png" width="200" >
+<img src="./images/branding/AI_for_energy_grids_lab_logo-fc-neg.png" width="200" >
+<img src="./images/branding/UT_Logo_2400_Sta_Black_EN.png" width="200" >
+<img src="./images/branding/3503_1_alliander_l01_2600_rgb_fc.png" width="200" >
 </p>
 
 
