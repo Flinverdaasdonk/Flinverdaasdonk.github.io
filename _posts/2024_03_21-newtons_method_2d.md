@@ -96,7 +96,8 @@ and you want to find the root. In this case the solution is simple: Just set one
 An alternative situation is that you have more equations than variables, e.g.
 
 $$\begin{align}f_1(x) = x^2 - 1 \\ f_2(x)=-x\end{align}$$
-![Plot of f(x)](/images/newtons_method/overdetermined_newton.png)
+
+![Plot of f_1(x) and f_2(x)](/images/newtons_method/overdetermined_newton.png)
 
 
 How to find a value for $x$ such that both $f_1(x)=0$ and $f_2(x)=0$  simultaneously? 
