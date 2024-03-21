@@ -44,7 +44,7 @@ which is Newton's method
 ## An example
 Imagine we have the function
 $$f(x)= \sin(2x^2) + 2x^2 - 2x - 10$$
-![C:\Users\VerdaasdonkF\OneDrive - University of Twente\Documents\00_PhD\04_Programming\newton_raphson\newton_method_1D.png](file:///c%3A/Users/VerdaasdonkF/OneDrive%20-%20University%20of%20Twente/Documents/00_PhD/04_Programming/newton_raphson/newton_method_1D.png)
+![Plot of f(x)](/images/newton_method_1D.png)
 
 For this function we can analytically compute the gradient
 $$f'(x) = \frac{df}{dx}= 4x\cos(2x^2)+4x-2$$
@@ -58,7 +58,7 @@ $$x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)} =x_n - \frac{\sin(2x^2) + 2x^2 - 2x - 1
 ## Solving the example
 Below is a piece of python code I wrote to solve the problem
 
-<pre> ```
+<pre> ```python
 # define x in the range from -2 to 2
 
 xs = np.linspace(-3, 3, 100)
