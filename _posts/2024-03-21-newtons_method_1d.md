@@ -92,7 +92,7 @@ for step in range(max_steps):
 
 If we run this we get the following results
 
-![Plot of results of Newton's method](/images/results_1D.png)
+![Plot of results of Newton's method](/images/1d_results.png)
 
 
 In the next post I explore Newton's method in multiple dimensions
