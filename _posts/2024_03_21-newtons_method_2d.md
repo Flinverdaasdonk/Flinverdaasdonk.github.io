@@ -13,7 +13,7 @@ Online you can find many very generalized versions of Newton's method for an und
 So imagine you have the following functions
 $$\begin{align}f(x,y) = xy + x^2 - 1 \\g(x, y) = \sin(xy)\end{align}$$
 
-![[newton_2d.png]]
+![Two plots containing f(x) and g(x)](/images/newtons_method/newton_2d.png)
 
 The black contours indicate where the functions are zero.
 
@@ -85,8 +85,7 @@ for step in range(max_steps):
 
 and this quickly converges to the following solution
 
-![[2d_results.png]]
-
+![Results of 2D newton](/images/newtons_method/2d_results.png)
 
 ## What if you have more variables than equations?
 As I mentioned, you need as many equations as you have variables. But what if this isn't the case? Lets start with the case where you have more variables than equations. So for example you have the function
@@ -97,7 +96,7 @@ and you want to find the root. In this case the solution is simple: Just set one
 An alternative situation is that you have more equations than variables, e.g.
 
 $$\begin{align}f_1(x) = x^2 - 1 \\ f_2(x)=-x\end{align}$$
-![[overdetermined_newton.png]]
+![Plot of f(x)](/images/newtons_method/overdetermined_newton.png)
 
 
 How to find a value for $x$ such that both $f_1(x)=0$ and $f_2(x)=0$  simultaneously? 
