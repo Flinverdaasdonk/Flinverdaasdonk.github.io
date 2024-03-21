@@ -44,7 +44,7 @@ which is Newton's method
 ## An example
 Imagine we have the function
 $$f(x)= \sin(2x^2) + 2x^2 - 2x - 10$$
-![Plot of f(x)](/images/newton_method_1D.png)
+![Plot of f(x)](/images/newtons_method/newton_method_1D.png)
 
 For this function we can analytically compute the gradient
 $$f'(x) = \frac{df}{dx}= 4x\cos(2x^2)+4x-2$$
@@ -92,7 +92,7 @@ for step in range(max_steps):
 
 If we run this we get the following results
 
-![Plot of results of Newton's method](/images/1d_results.png)
+![Plot of results of Newton's method](/images/newtons_method/1d_results.png)
 
 
 In the next post I explore Newton's method in multiple dimensions
